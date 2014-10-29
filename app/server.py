@@ -9,4 +9,3 @@ def index():
     return "add /sp to the url use the blueprint"
 
 
-
